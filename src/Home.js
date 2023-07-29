@@ -28,13 +28,13 @@ class Home extends Component {
 			<div className="container2">
 				<div style={{fontSize: "14px", background: "white", width: "10%", textAlign: "center", margin: "auto", marginBottom: "10px"}}>
 					Source code: 
-					<IconButton style={{color: "black"}} onClick={() => window.location.href="https://github.com/0x5eba/Video-Meeting"}>
+					<IconButton style={{color: "black"}} onClick={() => window.location.href="https://github.com/jainapoorva40"}>
 						<GitHubIcon />
 					</IconButton>
 				</div>
 				
 				<div>
-					<h1 style={{ fontSize: "45px" }}>Video Meeting</h1>
+					<h1 style={{ fontSize: "45px" }}>Quick Meets</h1>
 					<p style={{ fontWeight: "200" }}>Video conference website that lets you stay in touch with all your friends.</p>
 				</div>
 
